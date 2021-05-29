@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_options_options",
+  "info": {
+    "name": "Option",
+    "icon": "cog"
+  },
+  "options": {},
+  "attributes": {
+    "Price": {
+      "type": "string"
+    },
+    "Name": {
+      "type": "string"
+    }
+  }
+}

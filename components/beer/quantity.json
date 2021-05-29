@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_beer_quantities",
+  "info": {
+    "name": "Quantity",
+    "icon": "beer"
+  },
+  "options": {},
+  "attributes": {
+    "Units": {
+      "type": "string"
+    },
+    "Price": {
+      "type": "string"
+    }
+  }
+}
